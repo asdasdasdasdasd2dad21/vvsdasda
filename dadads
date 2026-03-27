@@ -69,7 +69,7 @@ local config_flags = library.config_flags
 
 local themes = {
 	preset = {
-		["outline"] = rgb(32, 32, 38), --
+		["outline"] = rgb(96, 120, 190), --
 		["inline"] = rgb(60, 55, 75), --
 		["accent"] = rgb(96, 120, 190), --
 		["contrast"] = rgb(35, 35, 47),
